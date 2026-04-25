@@ -1,0 +1,2 @@
+2026-02-13 10:16:59,576 - training - ERROR - [error]Training error at epoch 0, batch 0: index 5 is out of bounds for dimension 0 with size 4[/error]
+2026-02-13 10:16:59,582 - training - ERROR - [error]Batch targets: [{'labels': tensor([1]), 'boxes': tensor([[0.2129, 0.6181, 0.4258, 0.7527]])}, {'labels': tensor([5]), 'boxes': tensor([[0.4794, 0.6401, 0.4945, 0.3168]])}, {'labels': tensor([4]), 'boxes': tensor([[0.8098, 0.4872, 0.3448, 0.4799]])}, {'labels': tensor([0]), 'boxes': tensor([[0.2919, 0.6108, 0.3393, 0.4267]])}][/error]

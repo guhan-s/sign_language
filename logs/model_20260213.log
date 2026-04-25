@@ -1,0 +1,18 @@
+2026-02-13 10:17:59,213 - model - ERROR - [error]Failed to load checkpoint: Error(s) in loading state_dict for DETR:
+	size mismatch for linear_class.weight: copying a param with shape torch.Size([4, 256]) from checkpoint, the shape in current model is torch.Size([7, 256]).
+	size mismatch for linear_class.bias: copying a param with shape torch.Size([4]) from checkpoint, the shape in current model is torch.Size([7]).[/error]
+2026-02-13 15:50:44,032 - model - ERROR - [error]Failed to load checkpoint: [Errno 22] Invalid argument: 'D:\\SignDETR\\checkpoints\x0199_model.pt'[/error]
+2026-02-13 15:51:04,397 - model - ERROR - [error]Failed to load checkpoint: [Errno 22] Invalid argument: 'D:\\SignDETR\\checkpoints\x0199_model.pt'[/error]
+2026-02-13 16:00:32,825 - model - ERROR - [error]Failed to load checkpoint: [Errno 2] No such file or directory: 'D:\\SignDETR\\checkpoints\\99_model.pt'[/error]
+2026-02-13 16:01:23,999 - model - ERROR - [error]Failed to load checkpoint: Error(s) in loading state_dict for DETR:
+	size mismatch for linear_class.weight: copying a param with shape torch.Size([7, 256]) from checkpoint, the shape in current model is torch.Size([4, 256]).
+	size mismatch for linear_class.bias: copying a param with shape torch.Size([7]) from checkpoint, the shape in current model is torch.Size([4]).[/error]
+2026-02-13 16:02:05,616 - model - ERROR - [error]Failed to load checkpoint: [Errno 22] Invalid argument: 'D:\\SignDETR\\checkpoints\x0199_model.pt'[/error]
+2026-02-13 16:02:39,489 - model - ERROR - [error]Failed to load checkpoint: [Errno 22] Invalid argument: 'D:\\SignDETR\\checkpoints\x0190_model.pt'[/error]
+2026-02-13 16:03:06,604 - model - ERROR - [error]Failed to load checkpoint: Error(s) in loading state_dict for DETR:
+	size mismatch for linear_class.weight: copying a param with shape torch.Size([7, 256]) from checkpoint, the shape in current model is torch.Size([4, 256]).
+	size mismatch for linear_class.bias: copying a param with shape torch.Size([7]) from checkpoint, the shape in current model is torch.Size([4]).[/error]
+2026-02-13 16:05:16,023 - model - ERROR - [error]Failed to load checkpoint: [Errno 22] Invalid argument: 'D:\\SignDETR\\checkpoints\x0199_model.pt'[/error]
+2026-02-13 16:07:13,988 - model - ERROR - [error]Failed to load checkpoint: Error(s) in loading state_dict for DETR:
+	size mismatch for linear_class.weight: copying a param with shape torch.Size([4, 256]) from checkpoint, the shape in current model is torch.Size([7, 256]).
+	size mismatch for linear_class.bias: copying a param with shape torch.Size([4]) from checkpoint, the shape in current model is torch.Size([7]).[/error]
